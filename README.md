@@ -1,2 +1,2 @@
-Este repositorio contiene los archivos en lenguaje Java para la creación de un proyecto para un parqueadero, el cual permite registrar el ingreso y la salida de los vehículos en este. 
-Además, permite consultar el estado del parqueadero.
+Este repositorio contiene los archivos en lenguaje Java para la creación de un proyecto para un parqueadero, el cual permite registrar el ingreso y la salida de los vehículos en este, con el precio a pagar por la estadía de los mismos.
+Además, permite consultar el estado del parqueadero, listando los vehiculos que se encuentran en el mismo, que pueden ser automóviles, motocicletas y/o camiones, con sus detalles.
